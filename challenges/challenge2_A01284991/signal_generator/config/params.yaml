@@ -1,0 +1,16 @@
+signal_generator:
+  ros__parameters:
+    wave_type: 1
+    wave_time: 0.0
+    sine_wave: 
+      frequency: 2.0 #(Hz)
+      offset: 1.0
+      amplitude: 0.5
+    square_wave:
+      frequency: 2.0 #(Hz)
+      offset: 1.0
+      amplitude: 0.5
+    saw_wave:
+      frequency: 6.0 #(Hz).
+      offset: 0.0
+      amplitude: 1.0
